@@ -444,7 +444,7 @@ export default function LandingPage() {
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><line x1="5" y1="12" x2="19" y2="12" /><polyline points="12 5 19 12 12 19" /></svg>
             </Link>
             <a
-              href="https://github.com"
+              href="https://github.com/ilyklain/docora-web"
               target="_blank"
               rel="noopener noreferrer"
               className="h-11 px-5 rounded-xl border border-border/50 text-foreground/50 text-[13px] font-medium flex items-center gap-2 hover:text-foreground/80 hover:border-border/80 transition-all"
