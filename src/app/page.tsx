@@ -162,7 +162,7 @@ export default function LandingPage() {
             How It Works
           </a>
           <a
-            href="https://github.com"
+            href="https://github.com/ilyklain/docora-web"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-[12px] text-muted-foreground/40 hover:text-foreground/70 hover:bg-[rgba(247_243_227/0.04)] transition-all font-medium"
